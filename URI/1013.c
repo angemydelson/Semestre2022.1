@@ -6,5 +6,7 @@ int main(){
     scanf("%d", &a);
     scanf("%d", &b);
     scanf("%d", &c);
+
+    
     return 0;
 }
